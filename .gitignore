@@ -1,0 +1,30 @@
+# Frontend
+tallerMecanico_Front/node_modules/
+tallerMecanico_Front/dist/
+tallerMecanico_Front/build/
+tallerMecanico_Front/.vite/
+tallerMecanico_Front/.env
+tallerMecanico_Front/.env.*
+
+# Backend
+tallerMecanico_Back/.env
+tallerMecanico_Back/.env.*
+tallerMecanico_Back/bin/
+tallerMecanico_Back/include/
+tallerMecanico_Back/lib/
+tallerMecanico_Back/lib64
+tallerMecanico_Back/pyvenv.cfg
+tallerMecanico_Back/__pycache__/
+tallerMecanico_Back/**/*.pyc
+tallerMecanico_Back/.pytest_cache/
+tallerMecanico_Back/.mypy_cache/
+
+# Archivos raros de Windows
+**/*:Zone.Identifier
+
+# Generales
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

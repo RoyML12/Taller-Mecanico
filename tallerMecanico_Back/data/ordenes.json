@@ -1,0 +1,12 @@
+[
+  {
+    "id_orden": 1,
+    "id_vehiculo": 1,
+    "falla_vehiculo": "No arranca"
+  },
+  {
+    "id_orden": 2,
+    "id_vehiculo": 1,
+    "falla_vehiculo": "No arranca"
+  }
+]

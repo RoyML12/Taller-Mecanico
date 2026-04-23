@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv (si lo creaste dentro del proyecto)
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+.venv/
+venv/
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
